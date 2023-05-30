@@ -12,3 +12,7 @@ The idea of this project is clone the Activity Detail page from Garmin Connect a
 ### Preview
 
 <img src="./assets/preview.png" alt="App Preview" width="400" />
+
+### Doubts?
+
+Just reach me on [Slack](https://fueled.slack.com/team/U04248LC6G6) :)
