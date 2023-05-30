@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tamagui-garmin",
+    "slug": "tamagui-garmin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
